@@ -1,0 +1,18 @@
+{
+  "simulation": "com.gatling.easynotes.simulations.NotesSimulation",
+  "simulationId": "notessimulation",
+  "start": 1663760933845,
+  "description": "",
+  "scenarios": ["Load Test Creating notes", "Load Test update notes", "Load Test get notes", "Load Test delete notes"],
+  "assertions": [
+{
+  "path": "Global",
+  "target": "count of failed events",
+  "condition": "is",
+  "expectedValues": [0.0],
+  "result": false,
+  "message": "Global: count of failed events is 0.0",
+  "actualValue": [707.0]
+}
+  ]
+}

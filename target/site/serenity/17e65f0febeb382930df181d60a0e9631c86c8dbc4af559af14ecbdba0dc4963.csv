@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test EasyNotes App","GET All Notes","SUCCESS","2022-09-21T21:32:23.970986+10:00[Australia/Melbourne]","0.0","4.01"
+"Test EasyNotes App","Create and GET Note","SUCCESS","2022-09-21T21:32:27.992991+10:00[Australia/Melbourne]","0.0","0.3"
+"Test EasyNotes App","Create and Update Note","SUCCESS","2022-09-21T21:32:28.308493+10:00[Australia/Melbourne]","0.0","0.37"
+"Test EasyNotes App","Create and Delete Note","SUCCESS","2022-09-21T21:32:28.693613+10:00[Australia/Melbourne]","0.0","0.17"
